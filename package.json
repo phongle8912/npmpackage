@@ -1,0 +1,22 @@
+{
+  "name": "npmpackage",
+  "version": "1.0.0",
+  "description": "Managing Packages with Npm - How to Use package.json, the Core of Any Node.js Project or npm Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phongle8912/npmpackage.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "PhongLe8912",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phongle8912/npmpackage/issues"
+  },
+  "homepage": "https://github.com/phongle8912/npmpackage#readme"
+}
